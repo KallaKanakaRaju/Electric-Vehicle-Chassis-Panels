@@ -42,5 +42,7 @@ These enable fair, cross-material comparisons for lightweight design.
 
 ---
 
+Thanks to 
 Nawale, Purushottam & Kanade, Akshay & Nannaware, Bhalchandra & Sagalgile, Abhijeet & Chougule, Nagesh & Patange, Abhishek. (2023). Design automation and CAD customization of an EV chassis. Journal of Physics: Conference Series. 2601. 012014. 10.1088/1742-6596/2601/1/012014.
-https://www.kaggle.com/datasets/purushottamnawale/materials
+
+Dataset-------->  https://www.kaggle.com/datasets/purushottamnawale/materials
